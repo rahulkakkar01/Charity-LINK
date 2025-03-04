@@ -1,0 +1,4 @@
+#Tue Mar 04 17:08:35 IST 2025
+base.0=R\:\\flutter\\charitylink\\CharityLink\\android\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

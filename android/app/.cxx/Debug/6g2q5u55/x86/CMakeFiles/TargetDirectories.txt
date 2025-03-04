@@ -1,0 +1,2 @@
+R:/flutter/charitylink/CharityLink/android/app/.cxx/Debug/6g2q5u55/x86/CMakeFiles/edit_cache.dir
+R:/flutter/charitylink/CharityLink/android/app/.cxx/Debug/6g2q5u55/x86/CMakeFiles/rebuild_cache.dir
