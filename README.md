@@ -34,11 +34,10 @@
 ## Tech Stack
 
 - **Frontend**: Flutter (Dart)
-- **Backend**: Node.js with Express (or your backend stack)
-- **Database**: MongoDB (or preferred backend database)
-- **Authentication**: JWT / Firebase Auth (as applicable)
-- **Payment Integration**: Razorpay / Stripe / PayPal (as per implementation)
-- **State Management**: Provider / Riverpod / BLoC (as used)
+- **Backend**: Node.js with Express (or your backend stack)(worikng on it)
+- **Database**: MongoDB (or preferred backend database)(worikng on it)
+- **Authentication**: JWT / Firebase Auth (as applicable)(worikng on it)
+- **Payment Integration**: Razorpay / Stripe / PayPal (as per implementation)(worikng on it)
 
 ---
 
